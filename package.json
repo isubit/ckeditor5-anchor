@@ -1,0 +1,24 @@
+{
+  "name": "cke5-anchor",
+  "description": "A plugin to add anchor links to CKEditor 5",
+  "author": "isubit",
+  "license": "GPL-2.0-or-later",
+  "dependencies": {
+    "ckeditor5": "^35.4.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isubit/ckeditor5-anchor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/isubit/ckeditor5-anchor/issues"
+  },
+  "homepage": "https://github.com/isubit/ckeditor5-anchor"
+}
